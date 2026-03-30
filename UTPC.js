@@ -2,8 +2,11 @@
 // @name         URL Tracking Parameter Cleaner
 // @namespace    https://github.com/echoapus/URL-Tracking-Parameter-Cleaner/
 // @version      1.1
+// @author       echoapus
 // @description  Automatically removes common URL tracking parameters for privacy and clean sharing
 // @match        *://*/*
+// @license      MIT
+// @homepageURL  https://github.com/echoapus/URL-Tracking-Parameter-Cleaner/
 // @grant        none
 // ==/UserScript==
 (function() {
